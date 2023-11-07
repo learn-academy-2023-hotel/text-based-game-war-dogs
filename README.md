@@ -11,12 +11,10 @@ You joined the military and you are now in Bootcamp. You find yourself in a squa
     - You decide to no volunteer and just be a team player.
 
     You are a squad leader.
-    You notice some other members are sneaking food from the chow hall.
-    1. - You snitch on them
-    2 - You stay queit and hope they don't get caught
-
-    You get promoted from snitching however you lose the trust of your team members. You graduate bootcamp coming out with the rank of E-3 as infantry
-    You arrive at your first base and you notice some of your trouble maker "buddies" are also at the same base. 
+    - Graduated from bootcamp and got promoted to E3
+    You are a basic team member
+    -Graduated from bootcamp as an E1
+ 
 You are tasked with a deployment to Afghanistan
     -Do you prepare for it and go
     -You try to make an excuse to get out of it
